@@ -37,3 +37,10 @@ Partie 2 Activité
 <li>Aloé vera</li>
 
 </ul>
+
+<ul> New file: 
+
+<li>I added a .txt README copy for the OCR Activité, before I used .md so now I have two ;-)</li>
+
+
+</ul>
