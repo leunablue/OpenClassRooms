@@ -9,3 +9,11 @@ Partie 2 Activité
 
 
 </ul>
+
+
+<ul> Add a HTML document: 
+
+<li>OCR1.html</li>
+
+
+</ul>
