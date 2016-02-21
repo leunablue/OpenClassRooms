@@ -17,3 +17,12 @@ Partie 2 Activité
 
 
 </ul>
+
+
+
+<ul> Added another HTML document OCR2.html
+
+<li>OCR1.html</li>
+
+
+</ul>
